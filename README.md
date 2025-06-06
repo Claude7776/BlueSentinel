@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Ce dossier contient les fichiers nécessaires pour transformer un **serveur Ubuntu** en une interface de **supervision centralisée** type SOC (Security Operations Center) à l’aide de **Cockpit**, un tableau de bord web sécurisé, léger et extensible.
+Ce dépôt contient les fichiers nécessaires pour transformer un **serveur Ubuntu** en une interface de **supervision centralisée** type SOC (Security Operations Center) à l’aide de **Cockpit**, un tableau de bord web sécurisé, léger et extensible.
 
 ---
 
